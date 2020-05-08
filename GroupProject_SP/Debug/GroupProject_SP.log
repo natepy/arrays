@@ -1,0 +1,3 @@
+﻿  GroupProject_SP.cpp
+C:\Users\Nate\Desktop\GroupProject\GroupProject_SP\GroupProject_SP.cpp(193,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GroupProject_SP.vcxproj -> C:\Users\Nate\Desktop\GroupProject\GroupProject_SP\Debug\GroupProject_SP.exe
